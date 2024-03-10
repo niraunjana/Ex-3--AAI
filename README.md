@@ -110,7 +110,7 @@ print(query_result)
 
 ## Output:
 
-![image](https://github.com/niraunjana/Ex-3--AAI/assets/119395610/4ad5d85f-bb39-4f7f-8567-b8c98be0bb87)
+![image](https://github.com/niraunjana/Ex-3--AAI/assets/119395610/a679e9e4-bd38-4823-9c45-3dd0d4f0a5fb)
 
 
 ![image](https://github.com/niraunjana/Ex-3--AAI/assets/119395610/b73a9a41-767d-45e0-9357-bca9226ce103)
